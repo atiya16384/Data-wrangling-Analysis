@@ -1,0 +1,885 @@
+1 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+2 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+3 : Skin corr : southafrica_ghs-3.2_display
+4 : Skin irritant : southafrica_ghs-3.2_display
+5 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+6 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+7 : Flam liquid : southafrica_ghs-2.6_display Eye Irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+8 : Eye irritant : southafrica_ghs-3.3_display
+9 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display
+10 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+11 : 
+12 : Flam liquid : southafrica_ghs-2.6_display
+13 : Dissolved gas : southafrica_ghs-2.5_display Flam gas : southafrica_ghs-2.2_display
+14 : Compressed gas : southafrica_ghs-2.5_display Flam gas : southafrica_ghs-2.2_display
+15 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+16 : 
+17 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+18 : Carcinogen : southafrica_ghs-3.6_display STOT Single : southafrica_ghs-3.8_display Eye irritant : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+19 : Carcinogen : southafrica_ghs-3.6_display Eye irritant : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+20 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Eye damage : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+21 : 
+22 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+23 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+24 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Reprod tox : southafrica_ghs-3.7_display Eye damage : southafrica_ghs-3.3_display
+25 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+26 : Flam liquid : southafrica_ghs-2.6_display
+27 : Flam liquid : southafrica_ghs-2.6_display
+28 : Flam solid : southafrica_ghs-2.7_display
+29 : Pyro liquid : southafrica_ghs-2.9_display Skin corr : southafrica_ghs-3.2_display
+30 : Skin corr : southafrica_ghs-3.2_display
+31 : Water-react : southafrica_ghs-2.12_display
+32 : Water-react : southafrica_ghs-2.12_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+33 : Water-react : southafrica_ghs-2.12_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+34 : Water-react : southafrica_ghs-2.12_display Pyro solid : southafrica_ghs-2.10_display
+35 : Water-react : southafrica_ghs-2.12_display Flam solid : southafrica_ghs-2.7_display
+36 : 
+37 : Flam solid : southafrica_ghs-2.7_display
+38 : 
+39 : 
+40 : 
+41 : 
+42 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+43 : Skin irritant : southafrica_ghs-3.2_display
+44 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+45 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Eye Irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+46 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display
+47 : Skin irritant : southafrica_ghs-3.2_display
+48 : Skin irritant : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display
+49 : Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+50 : Flam gas : southafrica_ghs-2.2_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+51 : Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+52 : Skin corr : southafrica_ghs-3.2_display
+53 : Flam solid : southafrica_ghs-2.7_display
+54 : Oxidize solid : southafrica_ghs-2.14_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display Skin corr : southafrica_ghs-3.2_display
+55 : Explosive : southafrica_ghs-2.1_display
+56 : Oxidize solid : southafrica_ghs-2.14_display
+57 : Oxidize solid : southafrica_ghs-2.14_display Resp sens : southafrica_ghs-3.4_display
+58 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display Eye damage : southafrica_ghs-3.3_display
+59 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display
+60 : 
+61 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+62 : 
+63 : Flam gas : southafrica_ghs-2.2_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+64 : 
+65 : 
+66 : Oxidize solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+67 : Oxidize solid : southafrica_ghs-2.14_display Oxidize liquid : southafrica_ghs-2.13_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+68 : Oxidize solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+69 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display STOT repeat : southafrica_ghs-3.9_display Aspirate tox : southafrica_ghs-3.10_display Eye irritant : southafrica_ghs-3.3_display
+70 : Flam liquid : southafrica_ghs-2.6_display
+71 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Aspirate haz : southafrica_ghs-3.10_display
+72 : 
+73 : Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display Skin irritant : southafrica_ghs-3.2_display
+74 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+75 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+76 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display
+77 : 
+78 : 
+79 : 
+80 : 
+81 : Metal corr : southafrica_ghs-2.16_display
+82 : Org perox F : southafrica_ghs-2.15_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+83 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+84 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+85 : Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+86 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+87 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+88 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display
+89 : 
+90 : Flam gas : southafrica_ghs-2.2_display Carcinogen : southafrica_ghs-3.6_display
+91 : Flam liquid : southafrica_ghs-2.6_display Reprod : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display STOT single : southafrica_ghs-3.8_display
+92 : Flam liquid : southafrica_ghs-2.6_display Reprod tox : southafrica_ghs-3.7_display
+93 : 
+94 : Flam gas : southafrica_ghs-2.2_display
+95 : 
+96 : Flam gas : southafrica_ghs-2.2_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display
+97 : 
+98 : Flam gas : southafrica_ghs-2.2_display
+99 : Flam gas : southafrica_ghs-2.2_display
+100 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display STOT single : southafrica_ghs-3.8_display
+101 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+102 : 
+103 : 
+104 : Flam gas : southafrica_ghs-2.2_display
+105 : Flam gas : southafrica_ghs-2.2_display
+106 : 
+107 : Flam gas : southafrica_ghs-2.2_display
+108 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display
+109 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+110 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+111 : 
+112 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display
+113 : Flam liquid : southafrica_ghs-2.6_display
+114 : Flam liquid : southafrica_ghs-2.6_display
+115 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display (respiratory) : southafrica_ghs-3.8_display Skin sens : southafrica_ghs-3.4_display
+116 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display Eye irrit : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+117 : Flam liquid : southafrica_ghs-2.6_display
+118 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display STOT single : southafrica_ghs-3.8_display
+119 : 
+120 : Flam liquid : southafrica_ghs-2.6_display
+121 : 
+122 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+123 : 
+124 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display
+125 : Flam liquid : southafrica_ghs-2.6_display Eye irrit : southafrica_ghs-3.3_display
+126 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+127 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Skin sens : southafrica_ghs-3.4_display
+128 : Org perox F : southafrica_ghs-2.15_display Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+129 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display Skin sens : southafrica_ghs-3.4_display
+130 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display
+131 : 
+132 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+133 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+134 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+135 : Flam liquid : southafrica_ghs-2.6_display
+136 : Flam liquid : southafrica_ghs-2.6_display
+137 : Flam liquid : southafrica_ghs-2.6_display
+138 : 
+139 : 
+140 : 
+141 : Skin corr : southafrica_ghs-3.2_display Flam liquid : southafrica_ghs-2.6_display
+142 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+143 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+144 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+145 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+146 : Skin corr : southafrica_ghs-3.2_display
+147 : Skin irritant : southafrica_ghs-3.2_display
+148 : Reprod tox : southafrica_ghs-3.7_display
+149 : Pyro liquid : southafrica_ghs-2.9_display Acute tox : southafrica_ghs-3.1_display
+150 : Reprod tox : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display Acute tox : southafrica_ghs-3.1_display
+151 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display
+152 : 
+153 : 
+154 : Flam liquid : southafrica_ghs-2.6_display
+155 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+156 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+157 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+158 : Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+159 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+160 : 
+161 : Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+162 : Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+163 : Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+164 : 
+165 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+166 : Water-react : southafrica_ghs-2.12_display
+167 : Water-react : southafrica_ghs-2.12_display
+168 : Water-react : southafrica_ghs-2.12_display
+169 : Oxidize solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+170 : Oxidize solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+171 : Water-react : southafrica_ghs-2.12_display Acute tox : southafrica_ghs-3.1_display
+172 : Flam liquid : southafrica_ghs-2.6_display Reprod tox : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display Eye irritant : southafrica_ghs-3.3_display
+173 : Flam gas : southafrica_ghs-2.2_display Reprod tox : southafrica_ghs-3.7_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+174 : 
+175 : 
+176 : Oxid gas : southafrica_ghs-2.4_display Acute tox : southafrica_ghs-3.1_display Eye damage : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+177 : 
+178 : 
+179 : Flam liq : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Skin corr : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display
+180 : 
+181 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Skin irritant : southafrica_ghs-3.2_display
+182 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display Skin corr : southafrica_ghs-3.2_display
+183 : Acute tox : southafrica_ghs-3.1_display
+184 : 
+185 : Flam liquid : southafrica_ghs-2.6_display
+186 : Reprod tox : southafrica_ghs-3.7_display
+187 : 
+188 : Flam gas : southafrica_ghs-2.2_display Carcinogen : southafrica_ghs-3.6_display
+189 : 
+190 : Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display STOT single : southafrica_ghs-3.8_display Eye irritant : southafrica_ghs-3.3_display
+191 : 
+192 : Flam gas : southafrica_ghs-2.2_display Carcinogen : southafrica_ghs-3.6_display STOT repeat : southafrica_ghs-3.9_display
+193 : Flam liquid : southafrica_ghs-2.6_display
+194 : 
+195 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display Skin irritant : southafrica_ghs-3.2_display
+196 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+197 : Flam liquid : southafrica_ghs-2.6_display
+198 : 
+199 : Skin corr : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+200 : 
+201 : 
+202 : Oxidize solid : southafrica_ghs-2.14_display Carcinogen : southafrica_ghs-3.6_display Skin corr : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display
+203 : Oxidize solid : southafrica_ghs-2.14_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Reprod tox : southafrica_ghs-3.7_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display Skin corr : southafrica_ghs-3.2_display
+204 : Oxidize solid : southafrica_ghs-2.14_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Skin corr : southafrica_ghs-3.2_display
+205 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+206 : Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+207 : 
+208 : 
+209 : Flam liquid : southafrica_ghs-2.6_display Mutagen : southafrica_ghs-3.5_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin irritant : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+210 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+211 : Org perox E : southafrica_ghs-2.15_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+212 : Org perox F : southafrica_ghs-2.15_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+213 : Flam gas : southafrica_ghs-2.2_display Acute tox : southafrica_ghs-3.1_display
+214 : 
+215 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display Skin corr : southafrica_ghs-3.2_display
+216 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display Skin irrit : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+217 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+218 : 
+219 : Org perox D : southafrica_ghs-2.15_display Skin irritant : southafrica_ghs-3.2_display
+220 : 
+221 : Org perox D : southafrica_ghs-2.15_display Skin irritant : southafrica_ghs-3.2_display
+222 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+223 : Skin sens : southafrica_ghs-3.4_display
+224 : 
+225 : Flam liquid : southafrica_ghs-2.6_display
+226 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+227 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display Eye damage : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+228 : Flam gas : southafrica_ghs-2.2_display
+229 : Skin corr : southafrica_ghs-3.2_display
+230 : 
+231 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+232 : 
+233 : 
+234 : 
+235 : Org peroxide B : southafrica_ghs-2.15_display Eye irritant : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+236 : Org peroxide B : southafrica_ghs-2.15_display Eye irritant : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+237 : 
+238 : 
+239 : Explosive : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display Carcinogen : southafrica_ghs-3.6_display Skin corr : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display
+240 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display
+241 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+242 : 
+243 : Acute tox : southafrica_ghs-3.1_display Reprod tox : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display
+244 : Reprod tox : southafrica_ghs-3.7_display Mutagen : southafrica_ghs-3.5_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display
+245 : Reprod tox : southafrica_ghs-3.7_display Mutagen : southafrica_ghs-3.5_display Eye irritant : southafrica_ghs-3.3_display STOT repeat : southafrica_ghs-3.9_display
+246 : Reprod tox : southafrica_ghs-3.7_display Mutagen : southafrica_ghs-3.5_display Eye damage : southafrica_ghs-3.3_display STOT repeat : southafrica_ghs-3.9_display
+247 : Reprod tox : southafrica_ghs-3.7_display Mutagen : southafrica_ghs-3.5_display STOT repeat : southafrica_ghs-3.9_display
+248 : 
+249 : 
+250 : Unstable expl : southafrica_ghs-2.1_display Carcinogen : southafrica_ghs-3.6_display STOT repeat : southafrica_ghs-3.9_display
+251 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+252 : 
+253 : Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+254 : 
+255 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display
+256 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+257 : Oxid solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+258 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+259 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+260 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+261 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+262 : Flam liquid : southafrica_ghs-2.6_display Mutagen : southafrica_ghs-3.5_display Skin irritant : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+263 : 
+264 : 
+265 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display
+266 : 
+267 : Flam liquid : southafrica_ghs-2.6_display
+268 : Flam liquid : southafrica_ghs-2.6_display
+269 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display STOT single : southafrica_ghs-3.8_display
+270 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display STOT single : southafrica_ghs-3.8_display
+271 : Water-react : southafrica_ghs-2.12_display Pyro liquid : southafrica_ghs-2.9_display Skin corr : southafrica_ghs-3.2_display
+272 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+273 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+274 : Flam liquid : southafrica_ghs-2.6_display Reprod : southafrica_ghs-3.7_display
+275 : 
+276 : 
+277 : 
+278 : 
+279 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+280 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+281 : 
+282 : Acute tox : southafrica_ghs-3.1_display
+283 : Explosive : southafrica_ghs-2.1_display
+284 : Acute tox : southafrica_ghs-3.1_display Explosive : southafrica_ghs-2.1_display
+285 : Flam liquid : southafrica_ghs-2.6_display
+286 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display (respiratory) : southafrica_ghs-3.8_display
+287 : Reprod tox : southafrica_ghs-3.7_display
+288 : Reprod tox : southafrica_ghs-3.7_display
+289 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display
+290 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+291 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display
+292 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+293 : Org perox D : southafrica_ghs-2.15_display
+294 : Org perox D : southafrica_ghs-2.15_display
+295 : 
+296 : 
+297 : Flam liquid : southafrica_ghs-2.6_display
+298 : Flam liquid : southafrica_ghs-2.6_display
+299 : Flam liquid : southafrica_ghs-2.6_display
+300 : Flam gas : southafrica_ghs-2.2_display
+301 : 
+302 : 
+303 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+304 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+305 : 
+306 : 
+307 : Flam liquid : southafrica_ghs-2.6_display
+308 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display
+309 : 
+310 : 
+311 : 
+312 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+313 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+314 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+315 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+316 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+317 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+318 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+319 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+320 : 
+321 : 
+322 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+323 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+324 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+325 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+326 : Flam gas : southafrica_ghs-2.2_display
+327 : Acute tox : southafrica_ghs-3.1_display Mutagen : southafrica_ghs-3.5_display Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+328 : Pyro liquid : southafrica_ghs-2.9_display Skin corr : southafrica_ghs-3.2_display
+329 : 
+330 : Pyro liquid : southafrica_ghs-2.9_display Skin corr : southafrica_ghs-3.2_display
+331 : Reprod : southafrica_ghs-3.7_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display
+332 : 
+333 : Reprod : southafrica_ghs-3.7_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display
+334 : Reprod : southafrica_ghs-3.7_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+335 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+336 : Skin corr : southafrica_ghs-3.2_display
+337 : Skin corr : southafrica_ghs-3.2_display
+338 : Skin irrit : southafrica_ghs-3.2_display
+339 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+340 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+341 : Flam liquid : southafrica_ghs-2.6_display
+342 : 
+343 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display
+344 : 
+345 : Explosive : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display
+346 : 
+347 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display
+348 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+349 : 
+350 : 
+351 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+352 : Org perox E : southafrica_ghs-2.15_display Flam liquid : southafrica_ghs-2.6_display
+353 : Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+354 : 
+355 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display
+356 : Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+357 : 
+358 : 
+359 : 
+360 : Flam gas : southafrica_ghs-2.2_display
+361 : 
+362 : 
+363 : Flam liquid : southafrica_ghs-2.6_display
+364 : Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+365 : 
+366 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display
+367 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display
+368 : 
+369 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display
+370 : 
+371 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+372 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+373 : 
+374 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+375 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display
+376 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+377 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+378 : 
+379 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+380 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display Eye damage : southafrica_ghs-3.3_display
+381 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+382 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+383 : Flam gas : southafrica_ghs-2.2_display
+384 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+385 : Unstable expl : southafrica_ghs-2.1_display
+386 : Flam gas : southafrica_ghs-2.2_display Acute tox : southafrica_ghs-3.1_display
+387 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+388 : Flam liquid : southafrica_ghs-2.6_display
+389 : 
+390 : Flam liq : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display
+391 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+392 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+393 : Flam gas : southafrica_ghs-2.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+394 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+395 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+396 : Flam gas : southafrica_ghs-2.2_display STOT single : southafrica_ghs-3.8_display
+397 : 
+398 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+399 : Unstable expl : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+400 : Flam liquid : southafrica_ghs-2.6_display Tox reprod : southafrica_ghs-3.7_display Acute tox : southafrica_ghs-3.1_display
+401 : 
+402 : 
+403 : Flam liquid : southafrica_ghs-2.6_display Tox reprod : southafrica_ghs-3.7_display
+404 : Flam liquid : southafrica_ghs-2.6_display Tox reprod : southafrica_ghs-3.7_display
+405 : Flam gas : southafrica_ghs-2.2_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+406 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display Resp sens : southafrica_ghs-3.4_display Skin sens : southafrica_ghs-3.4_display
+407 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+408 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+409 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+410 : Flam gas : southafrica_ghs-2.2_display
+411 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display
+412 : Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+413 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+414 : Oxid gas : southafrica_ghs-2.4_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+415 : Flam liquid : southafrica_ghs-2.6_display Skin sens : southafrica_ghs-3.4_display
+416 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display Carcinogen : southafrica_ghs-3.6_display
+417 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display Carcinogen : southafrica_ghs-3.6_display Resp sens : southafrica_ghs-3.4_display
+418 : Eye irrit : southafrica_ghs-3.3_display Skin irrit : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+419 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display STOT repeat : southafrica_ghs-3.9_display Skin irrit : southafrica_ghs-3.2_display
+420 : Carcinogen : southafrica_ghs-3.6_display Reprod tox : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display
+421 : 
+422 : Skin irritant : southafrica_ghs-3.2_display
+423 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+424 : 
+425 : 
+426 : 
+427 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+428 : 
+429 : Flam liquid : southafrica_ghs-2.6_display Tox reprod : southafrica_ghs-3.7_display Aspirate haz : southafrica_ghs-3.10_display STOT repeat : southafrica_ghs-3.9_display Eye irrit : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+430 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display
+431 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display
+432 : Explosive : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+433 : Water-react : southafrica_ghs-2.12_display
+434 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Skin corr : southafrica_ghs-3.2_display
+435 : Skin corr : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display Carcinogen : southafrica_ghs-3.6_display
+436 : Carcinogen : southafrica_ghs-3.6_display Skin irritant : southafrica_ghs-3.2_display
+437 : Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+438 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+439 : 
+440 : Flam gas : southafrica_ghs-2.2_display
+441 : Compressed gas : southafrica_ghs-2.5_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+442 : Refrigerated gas : southafrica_ghs-2.3_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+443 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+444 : Acute tox : southafrica_ghs-3.1_display
+445 : Acute tox : southafrica_ghs-3.1_display
+446 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+447 : 
+448 : 
+449 : 
+450 : 
+451 : 
+452 : 
+453 : 
+454 : 
+455 : Unstable expl : southafrica_ghs-2.1_display
+456 : Metal corr : southafrica_ghs-2.16_display
+457 : Carcinogen : southafrica_ghs-3.6_display Reprod tox : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display
+458 : 
+459 : 
+460 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+461 : Flam gas : southafrica_ghs-2.2_display
+462 : Flam gas : southafrica_ghs-2.2_display
+463 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display STOT single : southafrica_ghs-3.8_display Eye damage : southafrica_ghs-3.3_display
+464 : Flam liquid : southafrica_ghs-2.6_display
+465 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display
+466 : 
+467 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display
+468 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin irritant : southafrica_ghs-3.2_display
+469 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+470 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+471 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Acute tox : southafrica_ghs-3.1_display
+472 : Flam liquid : southafrica_ghs-2.6_display
+473 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+474 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+475 : 
+476 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+477 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display Eye damage : southafrica_ghs-3.3_display
+478 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+479 : Flam liquid : southafrica_ghs-2.6_display
+480 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display
+481 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+482 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+483 : 
+484 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+485 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display STOT single : southafrica_ghs-3.8_display
+486 : Flam liquid : southafrica_ghs-2.6_display
+487 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Aspirate haz : southafrica_ghs-3.10_display
+488 : 
+489 : 
+490 : 
+491 : Unstable expl : southafrica_ghs-2.1_display Reprod tox : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display
+492 : Explosive : southafrica_ghs-2.1_display Reprod tox : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display
+493 : Unstable expl : southafrica_ghs-2.1_display Reprod tox : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display
+494 : Explosive : southafrica_ghs-2.1_display Reprod tox : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display
+495 : Carcinogen : southafrica_ghs-3.6_display
+496 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Aspirate haz : southafrica_ghs-3.10_display
+497 : 
+498 : 
+499 : 
+500 : Water-react : southafrica_ghs-2.12_display Skin corr : southafrica_ghs-3.2_display
+501 : 
+502 : Flam solid : southafrica_ghs-2.7_display Skin corr : southafrica_ghs-3.2_display
+503 : 
+504 : Acute tox : southafrica_ghs-3.1_display
+505 : Acute tox : southafrica_ghs-3.1_display
+506 : Water-react : southafrica_ghs-2.12_display Acute tox : southafrica_ghs-3.1_display
+507 : Water-react : southafrica_ghs-2.12_display
+508 : Flam solid : southafrica_ghs-2.7_display Water-react : southafrica_ghs-2.12_display
+509 : Unstable expl : southafrica_ghs-2.1_display
+510 : Explosive : southafrica_ghs-2.1_display
+511 : Flam liquid : southafrica_ghs-2.6_display Skin sens : southafrica_ghs-3.4_display
+512 : Flam liquid : southafrica_ghs-2.6_display Skin sens : southafrica_ghs-3.4_display
+513 : Org perox D : southafrica_ghs-2.15_display Skin corr : southafrica_ghs-3.2_display Acute tox : southafrica_ghs-3.1_display
+514 : Org perox F : southafrica_ghs-2.15_display Skin irritant : southafrica_ghs-3.2_display
+515 : 
+516 : 
+517 : Explosive : southafrica_ghs-2.1_display STOT repeat : southafrica_ghs-3.9_display
+518 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+519 : Explosive : southafrica_ghs-2.1_display STOT repeat : southafrica_ghs-3.9_display
+520 : Unstable expl : southafrica_ghs-2.1_display STOT repeat : southafrica_ghs-3.9_display
+521 : Acute tox : southafrica_ghs-3.1_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Reprod tox : southafrica_ghs-3.7_display Lactic effects : southafrica_ghs-3.2_display
+522 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+523 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display
+524 : Flam solid : southafrica_ghs-2.7_display Acute tox : southafrica_ghs-3.1_display
+525 : Flam liquid : southafrica_ghs-2.6_display Skin sens : southafrica_ghs-3.4_display
+526 : Flam gas : southafrica_ghs-2.2_display
+527 : Flam gas : southafrica_ghs-2.2_display
+528 : 
+529 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display STOT single : southafrica_ghs-3.8_display
+530 : Acute tox : southafrica_ghs-3.1_display
+531 : Flam solid : southafrica_ghs-2.7_display Resp sens : southafrica_ghs-3.4_display Skin sens : southafrica_ghs-3.4_display
+532 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display
+533 : Reprod : southafrica_ghs-3.7_display Flam liquid : southafrica_ghs-2.6_display
+534 : 
+535 : 
+536 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+537 : 
+538 : 
+539 : Flam liquid : southafrica_ghs-2.6_display Reprod tox : southafrica_ghs-3.7_display STOT single : southafrica_ghs-3.8_display
+540 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+541 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT single : southafrica_ghs-3.8_display
+542 : 
+543 : 
+544 : STOT repeat : southafrica_ghs-3.9_display Resp sens : southafrica_ghs-3.4_display Skin sens : southafrica_ghs-3.4_display
+545 : Flam liquid : southafrica_ghs-2.6_display
+546 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+547 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+548 : Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display Resp sens : southafrica_ghs-3.4_display
+549 : 
+550 : 
+551 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT single : southafrica_ghs-3.8_display Skin irritant : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+552 : 
+553 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+554 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display
+555 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+556 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display
+557 : 
+558 : Flam liquid : southafrica_ghs-2.6_display Reprod tox : southafrica_ghs-3.7_display Skin irritant : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display Resp sens : southafrica_ghs-3.4_display
+559 : Flam liquid : southafrica_ghs-2.6_display
+560 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+561 : Flam gas : southafrica_ghs-2.2_display Acute tox : southafrica_ghs-3.1_display
+562 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display Skin irritant : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display
+563 : 
+564 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+565 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+566 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+567 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+568 : Flam gas : southafrica_ghs-2.2_display
+569 : 
+570 : Flam liquid : southafrica_ghs-2.6_display Mutagen : southafrica_ghs-3.5_display Eye damage : southafrica_ghs-3.3_display Resp sens : southafrica_ghs-3.4_display
+571 : 
+572 : 
+573 : Flam liquid : southafrica_ghs-2.6_display STOT repeat : southafrica_ghs-3.9_display Eye irritant : southafrica_ghs-3.3_display
+574 : 
+575 : 
+576 : 
+577 : 
+578 : 
+579 : 
+580 : Flam liquid : southafrica_ghs-2.6_display Skin sens : southafrica_ghs-3.4_display
+581 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Skin sens : southafrica_ghs-3.4_display
+582 : Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display
+583 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+584 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+585 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+586 : Flam gas : southafrica_ghs-2.2_display STOT single : southafrica_ghs-3.8_display Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+587 : 
+588 : 
+589 : 
+590 : 
+591 : 
+592 : 
+593 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display Eye damage : southafrica_ghs-3.3_display
+594 : 
+595 : Flam liquid : southafrica_ghs-2.6_display
+596 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+597 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+598 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+599 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+600 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+601 : 
+602 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+603 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+604 : Acute tox : southafrica_ghs-3.1_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Eye irritant : southafrica_ghs-3.3_display Lactic effects : southafrica_ghs-3.2_display
+605 : 
+606 : 
+607 : 
+608 : 
+609 : Flam gas : southafrica_ghs-2.2_display
+610 : 
+611 : 
+612 : Mutagen : southafrica_ghs-3.5_display
+613 : Mutagen : southafrica_ghs-3.5_display
+614 : Mutagen : southafrica_ghs-3.5_display Reprod tox : southafrica_ghs-3.7_display Acute tox : southafrica_ghs-3.1_display
+615 : Mutagen : southafrica_ghs-3.5_display
+616 : Flam liquid : southafrica_ghs-2.6_display STOT single : southafrica_ghs-3.8_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display
+617 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Reprod tox : southafrica_ghs-3.7_display Eye damage : southafrica_ghs-3.3_display
+618 : 
+619 : Skin irritant : southafrica_ghs-3.2_display
+620 : Skin irritant : southafrica_ghs-3.2_display
+621 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+622 : Carcinogen : southafrica_ghs-3.6_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+623 : 
+624 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Reprod tox : southafrica_ghs-3.7_display Acute tox : southafrica_ghs-3.1_display
+625 : 
+626 : 
+627 : Carcinogen : southafrica_ghs-3.6_display Reprod tox : southafrica_ghs-3.7_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+628 : Explosive : southafrica_ghs-2.1_display
+629 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display STOT single : southafrica_ghs-3.8_display Skin sens : southafrica_ghs-3.4_display
+630 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+631 : Unstable expl : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+632 : Explosive : southafrica_ghs-2.1_display STOT repeat : southafrica_ghs-3.9_display
+633 : Explosive : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display
+634 : 
+635 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+636 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display
+637 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+638 : Reprod tox : southafrica_ghs-3.7_display
+639 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+640 : 
+641 : 
+642 : 
+643 : 
+644 : Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+645 : 
+646 : 
+647 : Oxid gas : southafrica_ghs-2.4_display
+648 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+649 : 
+650 : 
+651 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+652 : Flam solid : southafrica_ghs-2.7_display Acute tox : southafrica_ghs-3.1_display
+653 : Unstable expl : southafrica_ghs-2.1_display
+654 : Explosive : southafrica_ghs-2.1_display
+655 : Explosive : southafrica_ghs-2.1_display
+656 : Explosive : southafrica_ghs-2.1_display
+657 : Flam solid : southafrica_ghs-2.7_display
+658 : 
+659 : Flam liquid : southafrica_ghs-2.6_display Aspirate tox : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+660 : 
+661 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display STOT single : southafrica_ghs-3.8_display Skin irritant : southafrica_ghs-3.2_display
+662 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display STOT single : southafrica_ghs-3.8_display
+663 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display
+664 : 
+665 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display
+666 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+667 : Flam liquid : southafrica_ghs-2.6_display
+668 : 
+669 : 
+670 : Skin corr : southafrica_ghs-3.2_display
+671 : 
+672 : Flam liquid : southafrica_ghs-2.6_display
+673 : 
+674 : Flam gas : southafrica_ghs-2.2_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display
+675 : Flam gas : southafrica_ghs-2.2_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display
+676 : Flam liq : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+677 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+678 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+679 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+680 : Skin corr : southafrica_ghs-3.2_display
+681 : Skin irrit : southafrica_ghs-3.2_display Eye irrit : southafrica_ghs-3.3_display
+682 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display Skin corr : southafrica_ghs-3.2_display
+683 : Flam solid : southafrica_ghs-2.7_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+684 : 
+685 : 
+686 : 
+687 : Flam solid : southafrica_ghs-2.7_display Acute tox : southafrica_ghs-3.1_display
+688 : 
+689 : Skin corr : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+690 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display Skin corr : southafrica_ghs-3.2_display
+691 : Flam solid : southafrica_ghs-2.7_display
+692 : Pyro solid : southafrica_ghs-2.10_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+693 : Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display Skin corr : southafrica_ghs-3.2_display
+694 : 
+695 : 
+696 : 
+697 : Unstable expl : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+698 : 
+699 : Explosive : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display
+700 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+701 : Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Reprod tox : southafrica_ghs-3.7_display Eye damage : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+702 : Water-react : southafrica_ghs-2.12_display Skin corr : southafrica_ghs-3.2_display
+703 : Oxid solid : southafrica_ghs-2.14_display Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display
+704 : Oxid solid : southafrica_ghs-2.14_display
+705 : Oxid solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display Eye irrit : southafrica_ghs-3.3_display Skin irrit : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+706 : Oxid solid : southafrica_ghs-2.14_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Reprod tox : southafrica_ghs-3.7_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display Skin corr : southafrica_ghs-3.2_display Resp sens : southafrica_ghs-3.4_display
+707 : 
+708 : Flam solid : southafrica_ghs-2.7_display Skin corr : southafrica_ghs-3.2_display  : southafrica_ghs-2.1_display
+709 : Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+710 : Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+711 : Skin irrit : southafrica_ghs-3.2_display Eye irrit : southafrica_ghs-3.3_display
+712 : Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+713 : Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display
+714 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+715 : Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+716 : Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+717 : 
+718 : Flam solid : southafrica_ghs-2.7_display Skin corr : southafrica_ghs-3.2_display
+719 : Oxid solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display
+720 : Oxid solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display
+721 : Oxid solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display
+722 : Oxid solid : southafrica_ghs-2.14_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display Resp sens : southafrica_ghs-3.4_display
+723 : 
+724 : 
+725 : Flam solid : southafrica_ghs-2.7_display Water-react : southafrica_ghs-2.12_display Skin corr : southafrica_ghs-3.2_display Acute tox : southafrica_ghs-3.1_display
+726 : Reprod tox : southafrica_ghs-3.7_display Carcinogen : southafrica_ghs-3.6_display
+727 : 
+728 : 
+729 : 
+730 : 
+731 : 
+732 : 
+733 : Flam gas : southafrica_ghs-2.2_display
+734 : Flam liquid : southafrica_ghs-2.6_display Eye damage : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+735 : 
+736 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+737 : 
+738 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+739 : Flam liquid : southafrica_ghs-2.6_display Skin corr : southafrica_ghs-3.2_display
+740 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+741 : 
+742 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+743 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display STOT single : southafrica_ghs-3.8_display
+744 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+745 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+746 : Flam gas : southafrica_ghs-2.2_display
+747 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+748 : 
+749 : Flam liquid : southafrica_ghs-2.6_display
+750 : 
+751 : 
+752 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+753 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+754 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display Eye damage : southafrica_ghs-3.3_display
+755 : Acute tox : southafrica_ghs-3.1_display Skin sens : southafrica_ghs-3.4_display
+756 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+757 : STOT repeat : southafrica_ghs-3.9_display Eye irritant : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+758 : 
+759 : 
+760 : 
+761 : 
+762 : STOT single : southafrica_ghs-3.8_display Skin irritant : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+763 : Water-react : southafrica_ghs-2.12_display Skin corr : southafrica_ghs-3.2_display
+764 : Oxid solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display
+765 : Oxid solid : southafrica_ghs-2.14_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+766 : Oxid solid : southafrica_ghs-2.14_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Reprod : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display Skin corr : southafrica_ghs-3.2_display Resp sens : southafrica_ghs-3.4_display
+767 : Oxid solid : southafrica_ghs-2.14_display Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Reprod : southafrica_ghs-3.7_display STOT repeat : southafrica_ghs-3.9_display Skin corr : southafrica_ghs-3.2_display Resp sens : southafrica_ghs-3.4_display
+768 : 
+769 : 
+770 : Flam solid : southafrica_ghs-2.7_display Skin corr : southafrica_ghs-3.2_display
+771 : Water-react : southafrica_ghs-2.12_display
+772 : Self-heating : southafrica_ghs-2.11_display Acute tox : southafrica_ghs-3.1_display
+773 : Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+774 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+775 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+776 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+777 : Skin corr : southafrica_ghs-3.2_display
+778 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display
+779 : Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+780 : 
+781 : Flam solid : southafrica_ghs-2.7_display Skin corr : southafrica_ghs-3.2_display
+782 : Oxid solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display
+783 : Oxid solid : southafrica_ghs-2.14_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+784 : Oxid solid : southafrica_ghs-2.14_display  : southafrica_ghs-2.1_display
+785 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+786 : Skin corr : southafrica_ghs-3.2_display Eye damage : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+787 : Eye irrit : southafrica_ghs-3.3_display
+788 : 
+789 : Flam liquid : southafrica_ghs-2.6_display Eye irrit : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display STOT repeat : southafrica_ghs-3.9_display
+790 : 
+791 : Skin corr : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+792 : Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+793 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+794 : Skin corr : southafrica_ghs-3.2_display
+795 : Skin corr : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+796 : Eye irrit : southafrica_ghs-3.3_display Skin irrit : southafrica_ghs-3.2_display
+797 : Skin corr : southafrica_ghs-3.2_display
+798 : Skin corr : southafrica_ghs-3.2_display
+799 : Skin corr : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+800 : 
+801 : 
+802 : 
+803 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+804 : 
+805 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+806 : Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+807 : Flam liquid : southafrica_ghs-2.6_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+808 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+809 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+810 : 
+811 : 
+812 : Explosive : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+813 : Skin corr : southafrica_ghs-3.2_display
+814 : Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+815 : 
+816 : 
+817 : Corrosive : southafrica_ghs-3.2_display
+818 : 
+819 : Flam liquid : southafrica_ghs-2.6_display Reprod tox : southafrica_ghs-3.7_display Aspirate haz : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+820 : Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display Carcinogen : southafrica_ghs-3.6_display
+821 : Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display Resp sens : southafrica_ghs-3.4_display
+822 : Skin irritant : southafrica_ghs-3.2_display
+823 : Pyro liquid : southafrica_ghs-2.9_display Skin corr : southafrica_ghs-3.2_display
+824 : Pyro solid : southafrica_ghs-2.10_display Skin corr : southafrica_ghs-3.2_display
+825 : 
+826 : 
+827 : 
+828 : Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+829 : Skin corr : southafrica_ghs-3.2_display
+830 : Skin corr : southafrica_ghs-3.2_display
+831 : Carcinogen : southafrica_ghs-3.6_display Mutagen : southafrica_ghs-3.5_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+832 : Oxid solid : southafrica_ghs-2.14_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+833 : 
+834 : Flam liquid : southafrica_ghs-2.6_display Pyro liquid : southafrica_ghs-2.9_display Skin corr : southafrica_ghs-3.2_display
+835 : Acute tox : southafrica_ghs-3.1_display Eye irritant : southafrica_ghs-3.3_display Skin sens : southafrica_ghs-3.4_display
+836 : Acute tox : southafrica_ghs-3.1_display Skin sens : southafrica_ghs-3.4_display
+837 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin corr : southafrica_ghs-3.2_display
+838 : Reprod tox : southafrica_ghs-3.7_display
+839 : 
+840 : Unstable expl : southafrica_ghs-2.1_display
+841 : 
+842 : 
+843 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display
+844 : Flam liquid : southafrica_ghs-2.6_display
+845 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display Eye irritant : southafrica_ghs-3.3_display STOT single : southafrica_ghs-3.8_display
+846 : 
+847 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display STOT single : southafrica_ghs-3.8_display
+848 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+849 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display Skin irritant : southafrica_ghs-3.2_display STOT single : southafrica_ghs-3.8_display
+850 : Explosive : southafrica_ghs-2.1_display
+851 : Explosive : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display
+852 : Explosive : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+853 : Explosive : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+854 : Explosive : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display Mutagen : southafrica_ghs-3.5_display
+855 : Flam solid : southafrica_ghs-2.7_display Acute tox : southafrica_ghs-3.1_display Mutagen : southafrica_ghs-3.5_display
+856 : Unstable expl : southafrica_ghs-2.1_display
+857 : Explosive : southafrica_ghs-2.1_display
+858 : Explosive : southafrica_ghs-2.1_display
+859 : Explosive : southafrica_ghs-2.1_display Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+860 : Flam solid : southafrica_ghs-2.7_display Reprod tox : southafrica_ghs-3.7_display STOT single : southafrica_ghs-3.8_display
+861 : 
+862 : 
+863 : 
+864 : 
+865 : 
+866 : Explosive : southafrica_ghs-2.1_display
+867 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+868 : Flam liquid : southafrica_ghs-2.6_display Aspirate haz : southafrica_ghs-3.10_display Eye irritant : southafrica_ghs-3.3_display Skin irritant : southafrica_ghs-3.2_display
+869 : STOT repeat : southafrica_ghs-3.9_display STOT single : southafrica_ghs-3.8_display
+870 : Flam liquid : southafrica_ghs-2.6_display Carcinogen : southafrica_ghs-3.6_display Acute tox : southafrica_ghs-3.1_display STOT single : southafrica_ghs-3.8_display
+871 : Flam gas : southafrica_ghs-2.2_display Carcinogen : southafrica_ghs-3.6_display
+872 : 
+873 : 
+874 : Acute tox : southafrica_ghs-3.1_display STOT repeat : southafrica_ghs-3.9_display
+875 : 
+876 : 
+877 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Skin irritant : southafrica_ghs-3.2_display
+878 : Flam liquid : southafrica_ghs-2.6_display Skin irritant : southafrica_ghs-3.2_display
+879 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display
+880 : Flam liquid : southafrica_ghs-2.6_display Acute tox : southafrica_ghs-3.1_display Acute tox : southafrica_ghs-3.1_display Skin irritant : southafrica_ghs-3.2_display
+881 : 
+882 : Water-react : southafrica_ghs-2.12_display Acute tox : southafrica_ghs-3.1_display
+883 : Water-react : southafrica_ghs-2.12_display Pyro solid : southafrica_ghs-2.10_display
+884 : Pyro solid : southafrica_ghs-2.10_display
+885 : Flam solid : southafrica_ghs-2.7_display
